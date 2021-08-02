@@ -1,0 +1,21 @@
+*{
+	background-color: lightblue;
+}
+h2{
+	padding: 20px;
+}
+#info{
+	border: 2px solid black; 
+	margin: 5px;
+	padding: 5px;
+}
+p{
+	border: 1px solid white;
+	background-color: pink;
+}
+#review-box{
+	border: 2px solid green;
+	margin: 10px;
+	padding: 10px;
+
+}
